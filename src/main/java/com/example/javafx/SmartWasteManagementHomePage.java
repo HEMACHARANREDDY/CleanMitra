@@ -54,9 +54,10 @@ public class SmartWasteManagementHomePage extends Application {
     private static final String[] DRIVERS = {"Driver 1", "Driver 2", "Driver 3", "Driver 4"};
 
     // Twilio credentials
-    private static final String TWILIO_ACCOUNT_SID = "AC8edff9247eefea19e276dcb7917aee10";
-    private static final String TWILIO_AUTH_TOKEN = "252998b96e3661441bed86dc773bdebe";
-    private static final String TWILIO_PHONE_NUMBER = "+18563885305";
+    private static final String TWILIO_ACCOUNT_SID = "...";
+    private static final String TWILIO_AUTH_TOKEN = "...";
+    private static final String TWILIO_PHONE_NUMBER = "...";
+
 
     // Initialize Twilio
     static {
